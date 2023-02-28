@@ -1,16 +1,36 @@
-### Hi there 👋
 
-<!--
-**KhatiAbhishek/KhatiAbhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am Abhishek Khati !
 
-Here are some ideas to get you started:
+<p align="center">
+⚡ I love to build user-salient experiences for solutions to problems that people face everyday. My core strength is Android Studio. I am interested in finding full-time oppurtinities in the tech industry.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🎓 Final Year Student at DIT University, Dehradun.
+
+- ✈️ Hire me for remote work & internships.
+
+- 👨‍💻 All of my projects are available at [https://github.com/KhatiAbhishek](https://github.com/KhatiAbhishek)
+
+- 💬 Ask me about **React, React JS, Android App Development, Flutter, Android Studio**
+
+- 📫 How to reach me **khatiabhishek1@gmail.com**
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=khatiabhishek&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheklkhati" />
+</p>
+
+## ⚡ My Github Stats
+<p align="center">
+<img height="180em" width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=khatiabhishek&theme=dracula&hide_border=true" />
+</p>
+
+## 📫 Connect with me
+<p align="center">
+<a href="https://github.com/KhatiAbhishek" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/khati-codes" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</p>
