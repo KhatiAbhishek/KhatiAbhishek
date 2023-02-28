@@ -2,7 +2,7 @@
 ## I am Abhishek Khati !
 
 <p align="center">
-⚡ I love to build user-salient experiences for solutions to problems that people face everyday. My core strength is Android Studio. I am interested in finding full-time oppurtinities in the tech industry.
+⚡ I love to build user-salient experiences for solutions to problems that people face everyday. My core strength is Android Studio. I am interested in finding full-time opportunities in the tech industry.
 </p>
 
 
