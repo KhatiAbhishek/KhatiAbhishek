@@ -6,7 +6,7 @@
 </p>
 
 
-- 🎓 Final Year Student at DIT University, Dehradun.
+- 🎓 BTech CSE graduate from DIT University, Dehradun, eager to dive into the world of technology.
 
 - ✈️ Hire me for remote work & internships.
 
