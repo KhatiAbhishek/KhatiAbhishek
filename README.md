@@ -22,8 +22,10 @@
 
 ## ⚡ My Github Stats
 <p align="center">
-<img height="180em" width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=khatiabhishek&theme=dracula&hide_border=true" />
+  <img height="180em" width="45%"
+       src="https://streak-stats.demolab.com?user=khatiabhishek&theme=dracula&hide_border=true" />
 </p>
+
 
 ## 📫 Connect with me
 <p align="center">
