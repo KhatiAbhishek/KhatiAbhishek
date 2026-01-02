@@ -21,10 +21,10 @@
 </p>
 
 ## ⚡ My Github Stats
-<p align="center">
+<!-- <p align="center">
   <img height="180em" width="45%"
        src="https://streak-stats.demolab.com?user=khatiabhishek&theme=dracula&hide_border=true" />
-</p>
+</p> -->
 
 
 ## 📫 Connect with me
